@@ -19,6 +19,9 @@ public class Main {
 		System.out.println("Jenkins Test!");
 		System.out.println("Hello World!");
 		System.out.println("Jenkins Test!");
-		System.out.println("Jenkins Test!");	
+		System.out.println("Jenkins Test!");
+		System.out.println("apple");
+		System.out.println("apple");
+		System.out.println("apple");
 	}
 }
